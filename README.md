@@ -12,14 +12,14 @@ Electrical Engineering student at the University of Washington interested in har
 ## Featured Projects
 
 ### Drone Electronic Speed Controller (ESC)
-Designing a custom motor-controller PCB using KiCad, an STM32 microcontroller, a DRV8320 gate driver, and external power MOSFETs.
+Designed a custom motor-controller PCB using KiCad, an STM32 microcontroller, a DRV8320 gate driver, and external power MOSFETs.
 
 - **Tools:** KiCad, PCB layout, circuit design
 - **Focus:** Three-phase motor control, gate driving, and power electronics
-- **Status:** In progress
+- **Status:** At fabrication stage
 
 ### Flight Controller PCB
-Designed a flight-controller concept around an STM32 microcontroller and supporting sensors and communication interfaces.
+Worked on developing a flight-controller concept around an STM32 microcontroller and supporting sensors and communication interfaces.
 
 - **Tools:** KiCad, schematic capture, PCB design
 - **Focus:** Embedded hardware, sensor interfaces, and board-level integration
