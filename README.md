@@ -23,13 +23,13 @@ Designed a flight-controller concept around an STM32 microcontroller and support
 
 - **Tools:** KiCad, schematic capture, PCB design
 - **Focus:** Embedded hardware, sensor interfaces, and board-level integration
-- **Status:** [Update with your actual progress]
+- **Status:** At fabrication stage 
 
 ### Photonics Research
 Interested in how optical and semiconductor devices can be used in integrated electronic and photonic systems.
 
 - **Focus:** Photonics, semiconductor devices, and experimental research
-- **Status:** [Describe your actual research responsibilities]
+- **Status:** Setup experiments including properly orienting laser and hyperspectral imaging sensor. Ran Rigorous Coupled-Wave Analysis simulation to model light transmission through a silicon nitride substance.    
 
 ## Technical Interests
 - PCB design and hardware development
@@ -37,9 +37,7 @@ Interested in how optical and semiconductor devices can be used in integrated el
 - Semiconductor devices and integrated systems
 - Embedded hardware
 
-## Links
-- LinkedIn: [Your LinkedIn URL]
-- Resume: [Your resume URL, if available]
+
 <!--
 **gavint-52/gavint-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
